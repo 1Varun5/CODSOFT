@@ -1,4 +1,4 @@
-# CodSoft Machine Learning-Project
+# CodSoft - Machine Learning
  My ML Internship at Codsoft GitHub Repo 
 
  Projects:
